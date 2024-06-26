@@ -4,7 +4,7 @@ export const TOKEN_CONTRACT_ABI = [
 		"anonymous": false,
 		"inputs": [
 			{
-				"indexed": true,
+				"indexed": false,
 				"internalType": "address",
 				"name": "owner",
 				"type": "address"
