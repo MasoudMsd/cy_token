@@ -1,6 +1,4 @@
-import { useState, useEffect } from 'react';
-import { ethers } from 'ethers';
-import { TOKEN_CONTRACT_ADDRESS, TOKEN_ABI } from '../constants';
+
 
 const TokenManager = () => {
   const [isConnected, setIsConnected] = useState(false);
