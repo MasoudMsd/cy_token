@@ -13,4 +13,3 @@ Connect deployer wallet to builder.base.org and complete the form (<2min)
 Do not deploy your front-end until our Mainnet GA launch in early August, when we open Base for everyone
 ```
 Just Testnet
-DM me if you need help
