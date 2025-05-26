@@ -1,6 +1,6 @@
 // constants/index.js
 
-export const TOKEN_CONTRACT_ADDRESS = "0x5009228dB18763984492AEE15393b149b1ea71fb";
+
 
 import TokenABI from './TokenABI.json';
 
