@@ -1,10 +1,3 @@
-import { BigNumber, Contract, providers, utils } from "ethers";
-import Head from "next/head";
-import React, { useEffect, useRef, useState } from "react";
-import Web3Modal from "web3modal";
-import { TOKEN_CONTRACT_ABI, TOKEN_CONTRACT_ADDRESS } from "../constants";
-import TokenManager from './TokenManager'; // Import TokenManager
-import styles from "../styles/Home.module.css";
 
 export default function Home() {
   const zero = BigNumber.from(0);
